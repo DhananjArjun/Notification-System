@@ -1,0 +1,3 @@
+interface INotification {
+    String getContent();
+}
